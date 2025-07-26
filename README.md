@@ -30,4 +30,7 @@ Key physical parameters for the multi-orbital tight-binding model (for (4,4) CNT
 - **Decay**:
   - β = 4.46
   - β_overlap = 2.85
-Additional simulation settings (e.g., k-points, energy bins) are defined in the code.
+- **Geometry**:
+  - r0 = 1.42 Å (equilibrium carbon-carbon bond length)
+  - max_dist = 2.5 Å (maximum distance for nearest-neighbor interactions)
+  - r_ref = np.sqrt(3) * r0 Å (reference distance for lattice calculations)  
