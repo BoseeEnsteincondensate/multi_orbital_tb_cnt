@@ -7,7 +7,7 @@ A Python implementation of a multi-orbital tight-binding model for armchair carb
 ## Features
 - Generates CNT geometry from a graphene lattice for armchair CNTs with chirality (n,n).
 - Constructs Hamiltonian and overlap matrices incorporating non-orthogonal effects.
-- Computes band structures and projected DOS (PDOS) for s, p_x, p_y, p_z orbitals.
+- Computes band structures and projected DOS for s, p_x, p_y, p_z orbitals.
 - Optimized parameters (β, β_overlap) ensure high accuracy and computational efficiency.
 - Visualizes results with publication-quality plots (e.g., band structures and PDOS).
 
