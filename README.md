@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A Python implementation of a multi-orbital tight-binding model for armchair carbon nanotubes (CNTs), focusing on non-orthogonal effects and curvature-induced σ-π hybridization. This code achieves band gap predictions with errors <1% compared to DFT-GGA benchmarks for chiralities from (4,4) to (10,10), as detailed in our associated research paper. It computes band structures and density of states (DOS) using the Slater-Koster method and Löwdin orthogonalization. This work was supported by the Taipei City Government Education Bureau.
+A Python implementation of a multi-orbital tight-binding model for armchair carbon nanotubes (CNTs), focusing on non-orthogonal effects and curvature-induced σ-π hybridization. This code achieves band gap predictions with errors <1% compared to DFT-GGA benchmarks for chiralities from (4,4) to (10,10), as detailed in our associated research paper. It computes band structures and density of states (DOS) using the Slater-Koster method and Löwdin orthogonalization.
 
 ## Features
 - Generates CNT geometry from a graphene lattice for armchair CNTs with chirality (n,n).
