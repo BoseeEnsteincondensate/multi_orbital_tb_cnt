@@ -33,4 +33,8 @@ Key physical parameters for the multi-orbital tight-binding model (for (4,4) CNT
 - **Geometry**:
   - r0 = 1.42 Å (equilibrium carbon-carbon bond length)
   - max_dist = 2.5 Å (maximum distance for nearest-neighbor interactions)
-  - r_ref = np.sqrt(3) * r0 Å (reference distance for lattice calculations)  
+  - r_ref = np.sqrt(3) * r0 Å (reference distance for lattice calculations)
+## Contributing
+Feedback and contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements, especially for extending the model to other CNT types (e.g., zigzag) or incorporating additional physical effects.
+## Contact
+For questions or collaboration, please contact [benson7989@gmail.com] or open an issue on GitHub.
