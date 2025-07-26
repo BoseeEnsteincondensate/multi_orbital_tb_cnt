@@ -13,7 +13,7 @@ A Python implementation of a multi-orbital tight-binding model for armchair carb
 
 ## Prerequisites
 - Python 3.8 or higher
-- Required packages: `numpy`, `scipy`, `matplotlib`, `SALib`, `jupyter`
+- Required packages: `numpy`, `scipy`, `matplotlib`
 
 ## Parameters
 Key physical parameters for the multi-orbital tight-binding model (for (4,4) CNT, in eV unless stated):
